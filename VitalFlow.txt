@@ -38,7 +38,7 @@ export default function VitalFlowWebsite() { return ( <div className="bg-black t
   {/* Contact Section */}
   <section className="px-6 pb-20 text-center">
     <h2 className="text-2xl font-bold text-teal-400">Contact Us</h2>
-    <p className="mt-2 text-gray-300">Call or Text: (555) 123-4567</p>
+    <p className="mt-2 text-gray-300">Call or Text: https://wa.me/14092380838
     <p className="text-gray-300">Email: info@vitalflowiv.com</p>
     <Button className="mt-4 bg-teal-400 text-black">
       Schedule Appointment
